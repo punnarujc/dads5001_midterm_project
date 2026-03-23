@@ -252,9 +252,7 @@ Outlier สำคัญ - ภาคกลาง:
 ข้อมูลที่ใช้ในการวิเคราะห์สำหรับโปรเจกต์นี้ รวบรวมมาจากหน่วยงานต่างๆ ดังนี้:
 
 * **กระทรวงแรงงาน**
-  * [ข้อมูลจำนวนผู้ประกันตน (ม.33, ม.39, ม.40)](https://www.mol.go.th/academician/reportstatic_labour)
-  * [ข้อมูลจำนวนผู้ประกันตน (ม.33) แยกรายอายุ](https://www.mol.go.th/academician/reportstatic_labour)
-  * [ข้อมูลจำนวนผู้ประกันตน (ม.33) แยกรายภูมิภาค](https://www.mol.go.th/academician/reportstatic_labour)
+  * [ข้อมูลจำนวนผู้ประกันตน](https://www.mol.go.th/academician/reportstatic_labour)
 * **กรมสรรพากร**
   * [ข้อมูลผลจัดเก็บภาษีอากร](https://data.rd.go.th/dataset/ds_taxsumprov/resource/78f38093-35b7-4ece-a304-cf0a283ed3c3)
 * **กรมการปกครอง**
